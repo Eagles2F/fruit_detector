@@ -15,3 +15,20 @@ An fruit detector using fast-rcnn and alexnet.
 ###baseline method
 svm+hog
 
+###supported fruits
+(10 in total)
+
+| Name | images # | accuracy |
+| :-----:| :---------:| :----------:|
+| apples | |
+| bananas | |
+| straberries | |
+| grape | |
+| watermelon | |
+| orange | |
+| peach | |
+| mongo | |
+| pineapple | |
+| pear | |
+
+
