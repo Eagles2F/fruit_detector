@@ -15,6 +15,7 @@ database reference:
 * The CIFAR-100 dataset
 * Google Image Search result for top 20 popular fruits in China.
 * imageNet: http://www.image-net.org/synset?wnid=n13134947
+
 ###baseline method
 svm+hog
 
