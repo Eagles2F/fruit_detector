@@ -11,7 +11,7 @@ An fruit detector using fast-rcnn and alexnet.
 * 971 images, 30 fruits categories. http://www.vicos.si/Downloads/FIDS30
 * The CIFAR-100 dataset
 * Google Image Search result for top 20 popular fruits in China.
-
+* imageNet: http://www.image-net.org/synset?wnid=n13134947
 ###baseline method
 svm+hog
 
