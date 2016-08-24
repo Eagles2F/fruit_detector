@@ -1,5 +1,5 @@
 # fruit_detector
-An alex net and caffe based fruit detector.
+An fruit detector using fast-rcnn and alexnet.
 
 ## Prerequisites
 
