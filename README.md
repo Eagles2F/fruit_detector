@@ -8,6 +8,9 @@ An fruit detector using fast-rcnn and alexnet.
 ##Design
 
 ###dataset
+find the database here: https://www.kaggle.com/eagles2f/evans-fruit-dataset
+
+database reference:
 * 971 images, 30 fruits categories. http://www.vicos.si/Downloads/FIDS30
 * The CIFAR-100 dataset
 * Google Image Search result for top 20 popular fruits in China.
