@@ -31,4 +31,8 @@ svm+hog
 | pineapple | |
 | pear | |
 
-
+##References
+Fast RCNN
+Alex net
+VCC
+etc
